@@ -7,8 +7,8 @@ The password is the following: **itzsten-subs-are-the-best**
 # Compability
 This version is compiled for 64-bit Windows 8+, that means the following versions of Windows work:
 - Windows 8.x
-- Windows 10
-- Windows 11
+- Windows 10.x
+- Windows 11.x
 
 For more compabilities, please refer to **itzsten@gmail.com** or **Itzsten#0001**.
 
